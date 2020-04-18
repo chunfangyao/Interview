@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e58276a6.chunk.css",
+    "main.js": "/static/js/main.0d8b6405.chunk.js",
+    "main.js.map": "/static/js/main.0d8b6405.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.968dbaa3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.968dbaa3.js.map",
+    "static/js/2.961ed56c.chunk.js": "/static/js/2.961ed56c.chunk.js",
+    "static/js/2.961ed56c.chunk.js.map": "/static/js/2.961ed56c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f9878b59e169891b4130609d141f9ceb.js": "/precache-manifest.f9878b59e169891b4130609d141f9ceb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e58276a6.chunk.css.map": "/static/css/main.e58276a6.chunk.css.map",
+    "static/js/2.961ed56c.chunk.js.LICENSE.txt": "/static/js/2.961ed56c.chunk.js.LICENSE.txt",
+    "static/media/apartments.png": "/static/media/apartments.a836ebea.png",
+    "static/media/background.png": "/static/media/background.9c075d36.png",
+    "static/media/chu.png": "/static/media/chu.f36488f9.png",
+    "static/media/fang.png": "/static/media/fang.7aae83d4.png",
+    "static/media/jing.png": "/static/media/jing.591fd7d2.png",
+    "static/media/server.png": "/static/media/server.c3b9d3e8.png",
+    "static/media/share.png": "/static/media/share.d49ec769.png",
+    "static/media/short.png": "/static/media/short.123e26b8.png",
+    "static/media/whole.png": "/static/media/whole.02836726.png",
+    "static/media/xu.png": "/static/media/xu.53c6b7c2.png",
+    "static/media/you.png": "/static/media/you.7ac7e56b.png",
+    "static/media/zheng.png": "/static/media/zheng.3f6dd6e3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.968dbaa3.js",
+    "static/js/2.961ed56c.chunk.js",
+    "static/css/main.e58276a6.chunk.css",
+    "static/js/main.0d8b6405.chunk.js"
+  ]
+}
